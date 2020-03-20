@@ -1,3 +1,8 @@
+>if 有空  
+        记笔记  
+    [可参考的笔记格式](https://blog.csdn.net/fengsser/article/details/47860981)
+
+
 P19 程序清单2-1 k-近邻算法
 
 
@@ -13,3 +18,13 @@ P19 程序清单2-1 k-近邻算法
 P23 matplotlib
 
 [fig.add_subplot(111)](https://blog.csdn.net/s201402023/article/details/51536687)
+
+
+[name 'array' is not defined](https://blog.csdn.net/u012700322/article/details/50448752)
+[ax.scatter(datingDataMat[:,1],datingDataMat[:,2],15.0*np.array(datingLabels),15.0*np.array(datingLabels)) #参数分别代表x，y](https://www.jianshu.com/p/947653f8dcdc)
+
+[ax.legend((p1,p2,p3),("不喜欢","魅力一般","极具魅力"),loc=2,prop=font)](https://zhuanlan.zhihu.com/p/41781440)
+
+自画P24 图2-5时出现以下问题：  
+1. legend()函数不懂参数含义
+2. 无法正常显示中文图例，显示小方框，指定font
