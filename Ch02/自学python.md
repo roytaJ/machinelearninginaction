@@ -28,3 +28,12 @@ P23 matplotlib
 自画P24 图2-5时出现以下问题：  
 1. legend()函数不懂参数含义
 2. 无法正常显示中文图例，显示小方框，指定font
+
+P25 2.2.3 归一化数值
+
+[tile(A,reps)](https://blog.csdn.net/laobai1015/article/details/85719724)
+[python代码换行](https://blog.csdn.net/baihhzm/article/details/73433160)
+[python输出函数print()](https://www.cnblogs.com/graceting/p/3875438.html)
+
+P28 2.2.5 使用算法：够建完整可用系统
+[raw_input    EOFError](https://www.cnblogs.com/spring87/p/4865436.html)
